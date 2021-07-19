@@ -19,3 +19,6 @@ following logic:
 3. Take an “attack” at a given position, and report back whether the attack resulted in a
 hit or a miss
 4. Return whether the player has lost the game yet (i.e. all battleships are sunk)
+
+# Special instructions?
+Well there are none. But if you're unable to open the project due to some reason. Try to create a new C# console project, delete it's program.cs file and copy all the .cs files from my repo to your new project. I created this project using VS Code if that helps.
